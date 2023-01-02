@@ -1,0 +1,74 @@
+.card{
+  width:500px;
+}
+.content_title{
+  min-height: 100px;
+}
+.content_image{
+  min-height:350px;
+}
+.content_link{
+  text-decoration: none;
+  color: black;
+}
+.content_link:hover{
+  color: red;
+}
+.header{
+  background-color: red;
+}
+.navigation{
+  text-decoration: none;
+  padding: 10px;
+  color: red;
+}
+.navigation:hover{
+  background-color: red;
+  color: white;
+  border-radius: 12px;
+}
+.header{
+  text-decoration: none;
+}
+.icon{
+  width: 20px !important;
+}
+.delete_btn{
+  border: 2px solid red;
+}
+.login{
+  width: 600px;
+}
+.logout_btn{
+  background-color:white;
+  color: red;
+  border-radius: 12px;
+  height: 30px;
+  margin-top:15px;
+}
+.search_bar{
+  margin-left: auto;
+}
+.social_media{
+  width:10%;
+  border: 2px solid white;
+  border-radius: 12px;
+  padding: 2px;
+  background-color: white;
+}
+.footer{
+  background-color: red;
+}
+.footer_navigation{
+  text-decoration: none;
+  padding: 10px;
+  color: red;
+}
+.footer_navigation:hover{
+  background-color: white;
+  color: red !important;
+  border-radius: 12px;
+}
+.search_btn{
+  background-color: red;
+}
